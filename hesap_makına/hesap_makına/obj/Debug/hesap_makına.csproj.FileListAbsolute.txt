@@ -1,0 +1,8 @@
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\bin\Debug\hesap_makına.exe.config
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\bin\Debug\hesap_makına.exe
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\bin\Debug\hesap_makına.pdb
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\obj\Debug\hesap_makına.csproj.AssemblyReference.cache
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\obj\Debug\hesap_makına.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\obj\Debug\hesap_makına.csproj.CoreCompileInputs.cache
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\obj\Debug\hesap_makına.exe
+C:\Users\ozerh\source\repos\hesap_makına\hesap_makına\obj\Debug\hesap_makına.pdb
